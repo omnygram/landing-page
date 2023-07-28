@@ -11,7 +11,7 @@ export default function Home() {
         <div className="z-10 w-full flex flex-col max-w-5xl items-center justify-between font-mono text-sm lg:flex">
           <div className="w-[600px] flex flex-col items-center align-center">
             <div className="flex flex-col items-center justify-center">
-              <img src="/omnygram.svg" className="w-[200px]" />
+              <video src="/loop.mp4" autoPlay loop className="w-[200px]" />
               <div className="text-center space-y-6 pt-12">
                 <h1 className="text-[36px] text-[#4d4d4d] font-medium font-sans">Omnygram</h1>
                 <h2 className="text-[20px] text-[#8c8c8c] font-light font-sans">A new era of cross chain</h2>
