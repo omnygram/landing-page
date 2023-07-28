@@ -3,7 +3,7 @@ import Head from "next/head";
 
 export default function Home() {
   return (
-    <div className="w-screen flex flex-col justify-center items-center min-h-screen">
+    <div className="w-screen flex flex-col justify-center items-center h-screen">
       <Head>
         <title>Omnygram Bridge</title>
       </Head>
