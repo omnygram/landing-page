@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="w-screen flex flex-col justify-center items-center h-screen">
       <Head>
-        <title>Omnygram Bridge</title>
+        <title>Omnygram - Account across blockchains</title>
       </Head>
       <main className="flex flex-col items-center justify-center flex-grow font-sans">
         <div className="w-full max-w-[600px] flex flex-col items-center align-center justify-center">
