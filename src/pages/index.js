@@ -21,7 +21,7 @@ export default function Home() {
               <a href="https://docsend.com/view/e8cvqtwzz9u7jpd2">
                 <div className="w-[200px] text-center p-4 font-sans text-[18px]">Pitch deck</div>
               </a>
-              <a href="https://docsend.com/view/p7jckm753kib9j23">
+              <a href="https://docsend.com/view/22ugm23g9dicd3q8">
                 <div className="w-[200px] text-center p-4 font-sans text-[18px]">Paper</div>
               </a>
             </div>
