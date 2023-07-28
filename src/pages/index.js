@@ -15,9 +15,9 @@ export default function Home() {
               autoPlay
               loop
               controls={false}
-              muted
               height={"200px"}
               width={"200px"}
+              style={{ outline: "none" }}
             />
             <div className="text-center space-y-6 pt-12">
               <h1 className="text-[36px] text-[#4d4d4d] font-medium font-sans">
