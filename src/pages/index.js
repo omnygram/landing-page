@@ -14,6 +14,7 @@ export default function Home() {
               src="/loop.mp4"
               autoPlay
               loop
+              muted
               height={"200px"}
               width={"200px"}
               style={{ outline: "none" }}
