@@ -10,7 +10,7 @@ export default function Home() {
       <main className="flex flex-col items-center justify-center flex-grow font-sans">
         <div className="w-full max-w-[600px] flex flex-col items-center align-center justify-center">
           <div className="flex flex-col items-center justify-center">
-            <img
+            <Image
               src="/loop.gif" // Replace "/loop.gif" with the path to your GIF image
               alt="Omnygram"
               height={"200px"}
