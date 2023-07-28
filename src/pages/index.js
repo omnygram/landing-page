@@ -15,6 +15,7 @@ export default function Home() {
               autoPlay
               loop
               muted
+              playsInline
               height={"200px"}
               width={"200px"}
               style={{ outline: "none" }}
