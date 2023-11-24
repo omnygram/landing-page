@@ -27,7 +27,7 @@ export default function Home() {
             </div>
           </div>
           <div className="flex flex-row justify-between pt-12">
-            <a href="https://docsend.com/view/e8cvqtwzz9u7jpd2">
+            <a href="https://deck.omnygram.org">
               <div className="w-[200px] text-center p-4 font-sans text-[18px]">
                 Pitch deck
               </div>
