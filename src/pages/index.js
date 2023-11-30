@@ -13,8 +13,8 @@ export default function Home() {
             <Image
               src="/loop.gif" // Replace "/loop.gif" with the path to your GIF image
               alt="Omnygram"
-              height={"200px"}
-              width={"200px"}
+              height="200"
+              width="200"
               style={{ outline: "none" }}
             />
             <div className="text-center space-y-6 pt-12">
@@ -26,7 +26,7 @@ export default function Home() {
               </h2>
             </div>
           </div>
-          <div className="flex flex-row justify-between pt-12">
+          <div className="flex flex-row justify-between pt-12 text-black">
             <a href="https://deck.omnygram.org">
               <div className="w-[200px] text-center p-4 font-sans text-[18px]">
                 Pitch deck
