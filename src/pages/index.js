@@ -32,7 +32,7 @@ export default function Home() {
                 Pitch deck
               </div>
             </a>
-            <a href="https://docsend.com/view/22ugm23g9dicd3q8">
+            <a href="https://docsend.com/view/fg5sttgijwtrhyer">
               <div className="w-[200px] text-center p-4 font-sans text-[18px]">
                 Paper
               </div>
