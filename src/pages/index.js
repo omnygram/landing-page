@@ -27,7 +27,7 @@ export default function Home() {
             </div>
           </div>
           <div className="flex flex-row justify-between pt-12 text-black">
-            <a href="https://deck.omnygram.org">
+            <a href="https://www.canva.com/design/DAFz3JslVlw/IhsjIYuwRlwMvrEmOkHCbA/view?utm_content=DAFz3JslVlw&utm_campaign=designshare&utm_medium=link&utm_source=viewer">
               <div className="w-[200px] text-center p-4 font-sans text-[18px]">
                 Pitch deck
               </div>
